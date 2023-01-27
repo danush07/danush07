@@ -4,7 +4,7 @@ Hi 👋 My name is DANUSH HARI
 Web Developer
 -------------
 
-* 🌍  I'm based in Coimbatore
+* 🌍  I'm based in India
 * ✉️  You can contact me at [danushhari2001@gmail.com](mailto:danushhari2001@gmail.com)
 * 🚀  I'm currently working on [Forum Hub (Application using Flutter)](http://github.com/danush07/Forum-Hub)
 * 🧠  I'm learning Vue , Flutter and Node Js
