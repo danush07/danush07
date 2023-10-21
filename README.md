@@ -1,12 +1,11 @@
 Hi 👋 My name is DANUSH HARI
 ============================
 
-Web Developer
+MERN STACK DEVELOPER
 -------------
 
-* ✉️  You can contact me at [danushhari2001@gmail.com](mailto:danushhari2001@gmail.com)
-* 🚀  I'm currently working on [Forum Hub (Application using Flutter)](http://github.com/danush07/Forum-Hub)
-* 🧠  I'm learning Vue , Flutter and Node Js
+* ✉️  You can contact me at [dlevelsup100@gmail.com](mailto:dlevelsup100@gmail.com)
+* 🧠  I'm learning Next JS
 * 🤝  I'm open to collaborating on Web Applications
 
 <a href="https://www.twitter.com/DanushHari2" target="_blank" rel="noreferrer"><img
