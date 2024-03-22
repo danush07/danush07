@@ -1,11 +1,8 @@
-Hi 👋 My name is DANUSH HARI
+Hi 👋 There...
 ============================
 
-MERN STACK DEVELOPER
--------------
-
 * ✉️  You can contact me at [dlevelsup100@gmail.com](mailto:dlevelsup100@gmail.com)
-* 🧠  I'm learning Next JS
+* 🧠  I'm learning Next JS & Shopify
 * 🤝  I'm open to collaborating on Web Applications
 
 <a href="https://www.twitter.com/DanushHari2" target="_blank" rel="noreferrer"><img
